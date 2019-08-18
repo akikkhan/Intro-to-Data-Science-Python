@@ -1,2 +1,2 @@
 # Intro-to-Data-Science-Python
-First course that gives overview of different tools on how to view and manipulate data
+This is the first out of five courses in the Applied Data Science using Python offerred by Coursera and taught by University of Michigan. The first part, Introduction to Data Science using Python "will introduce data manipulation and cleaning techniques using the popular python pandas data science library and introduce the abstraction of the Series and DataFrame as the central data structures for data analysis, along with tutorials on how to use functios such as groupby, merge, and pivot tables effectively".
